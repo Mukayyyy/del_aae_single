@@ -1,0 +1,7 @@
+/DATA
+/RUNS
+
+.idea
+*.txt
+
+/__pycache__
