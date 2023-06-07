@@ -56,9 +56,9 @@ DEFAULTS = {
     'reproduce': False,
     'sampling_seed': None,
     # predictor
-    'predictor_num_layers': 4,
+    'predictor_num_layers': 3,
     'predictor_hidden_size': 64,
-    'predictor_output_size': 4,
+    'predictor_output_size': 3,
     'a_alpha': 1,  # for calculating alpha
     'l_alpha': 1,  # for calculating alpha
     'u_alpha': 100,  # for calculating alpha
